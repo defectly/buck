@@ -1,0 +1,29 @@
+["children"] = {
+	[1] = {
+		["children"] = {
+		},
+		["self"] = {
+			["ClassName"] = "event",
+			["UniqueID"] = "577080541",
+			["Event"] = "button",
+			["Arguments"] = "o",
+			["Invert"] = true,
+		},
+	},
+	[2] = {
+		["children"] = {
+		},
+		["self"] = {
+			["URL"] = "https://pastebin.com/1jH0kmFy",
+			["ClassName"] = "custom_animation",
+			["AnimationType"] = "stance",
+			["UniqueID"] = "1742334210",
+		},
+	},
+},
+["self"] = {
+	["Name"] = "Buck Kick (O)",
+	["ClassName"] = "group",
+	["UniqueID"] = "443105347",
+	["EditorExpand"] = true,
+},
